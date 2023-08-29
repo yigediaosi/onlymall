@@ -7,11 +7,11 @@
 ![二维码](doc/code1.jpg)
 
 #### 部分页面
-![demo1](doc/demo1.jpg)
-![demo2](doc/demo2.jpg)
-![demo3](doc/demo3.jpg)
-![demo4](doc/demo4.jpg)
-![demo5](doc/demo5.jpg)
-![demo6](doc/demo6.jpg)
+![demo1](doc/demo1.png)
+![demo2](doc/demo2.png)
+![demo3](doc/demo3.png)
+![demo4](doc/demo4.png)
+![demo5](doc/demo5.png)
+![demo6](doc/demo6.png)
 
 代码整理后发出。
